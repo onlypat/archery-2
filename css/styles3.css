@@ -1,0 +1,75 @@
+body {
+  font-family: 'Lato', sans-serif; 
+}
+header {
+  background-color:#d5e7b6;
+}
+button {
+  color: #0000;
+  background: #d5e7b6;
+  border: solid 2px #000000;
+  padding:;
+  text-align: center;
+  margin-left: 2em;
+  width: 13em;
+  font-size: 4em;
+  font-family: 'Lato', sans-serif; 
+  font-weight: 100;
+}
+body {
+  font-family: 'Lato', sans-serif; 
+}
+.stplogo {
+  padding-left: 1em;
+  padding-bottom: 1em;
+  width: 15em;
+}
+.stpname {
+  width: 45em;
+  padding-bottom: 1em;
+  padding-left: -5em;
+  margin-top: 2em;
+}
+nav {
+  background-color: #8fc13f;
+  font-size: 1.7em;
+  padding: 1em;
+  text-align: center;
+  font-weight: 600;
+  margin-top: -2em;
+}
+.navlink{
+  color: black;
+  text-decoration: none;
+}
+h1 { font-size: 85px;
+  font-weight: 900;
+  text-align: center;
+  margin-bottom: -.5em;}
+.subhead {
+  font-size: 2.2em;
+  font-weight: 200;
+  text-align: left;
+  margin-left: 9.2em;
+}
+.bodycopy {
+  font-size: 1.7em;
+  text-align: left;
+  font-weight: 200;
+  margin-right: 2em;
+}
+.main-photo {
+  width: 226px;
+  height: 192px;
+}
+footer {
+  background-color: #533e33;
+  color:white;
+  font-size: 1.5em;
+  font-weight: 200;
+  padding: 1em;
+  text-align: left;
+}
+a {
+  color: black;
+}
